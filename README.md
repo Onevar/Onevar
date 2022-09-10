@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Onevar
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning HTML
+- 🌱 I’m currently learning HTML, CSS & Javascript
 - 💞️ I’m looking to collaborate on software projects that are catered to robotics
 - 📫 Feel free to reach me via my email yipleehin@gmail.com
 

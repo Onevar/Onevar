@@ -11,6 +11,10 @@
 - ⚡ Fun fact: I love to read and 3D printing
 - 📫 Feel free to reach me via my email yipleehin@gmail.com
 
+### Spotify Playing:
+
+[![Spotify](https://novatorem-flame-one.vercel.app/api/spotify)](https://open.spotify.com/user/Onevar)
+
 ### Connect with me:
 
 [![website](./img/youtube-light.svg)](https://www.youtube.com/@lee-hinyip#gh-light-mode-only)

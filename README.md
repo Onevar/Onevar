@@ -39,6 +39,7 @@
 
 [<img align="left" alt="VBA" width="26px" src="./img/vba-svgrepo-com.svg" style="padding-right:10px;" />](https://learn.microsoft.com/en-us/office/vba/api/overview/#vba-programming-in-office)
 [<img align="left" alt="Marlin" width="26px" src="./img/marlinfw-icon.svg" style="padding-right:10px;" />](https://docs.marlin.org/docs/Getting%20Started/#gh-light-mode-only)
+[<img align="left" alt="Marlin" width="26px" src="./img/marlinfw-icon-inverted.svg" style="padding-right:10px;" />](https://docs.marlin.org/docs/Getting%20Started/#gh-dark-mode-only)
 [<img align="left" alt="Cura" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Ultimaker_cura.png" style="padding-right:10px;" />](https://ultimaker.com/software/ultimaker-cura/)
 
 <br />

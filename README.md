@@ -61,6 +61,7 @@
 [<img align="left" alt="RasberryPi" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" style="padding-right:10px;" />](https://www.raspberrypi.com/documentation/)
 [<img align="left" alt="SolidWorks 2016" width="26px" src="./img/icons8-solidworks.svg" style="padding-right:10px;" />](https://help.solidworks.com/2024/English/SolidWorks/sldworks/r_welcome_sw_online_help.htm)
 [<img align="left" alt="LATEX" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" style="padding-right:10px;" />](https://www.latex-project.org/help/documentation/#gh-light-mode-only)
+[<img align="left" alt="LATEX" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" style="padding-right:10px;" style="filter: invert(1);" />](https://www.latex-project.org/help/documentation/#gh-dark-mode-only)
 [<img align="left" alt="Matlab" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" style="padding-right:10px;" />](https://www.mathworks.com/help/matlab/)
 [<img align="left" alt="LabVIEW" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/labview/labview-original.svg" style="padding-right:10px;" />](https://www.ni.com/docs/en-US/bundle/labview/page/what-is-labview.html)
 [<img align="left" alt="R" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" style="padding-right:10px;" />](https://www.r-project.org/other-docs.html)

@@ -24,7 +24,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Google" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"padding-right:10px;" />][https://www.google.com/]
+[<img align="left" alt="Google" width="26px" src="https://github.com/devicons/devicon/tree/v2.15.1/icons/google/google-original.svg"padding-right:10px;" />][https://www.google.com/]
 [<img align="left" alt="ChatGPT" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" style="padding-right:10px;" />][https://chat.openai.com/]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][https://code.visualstudio.com/docs]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][https://git-scm.com/doc]

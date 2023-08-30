@@ -53,6 +53,7 @@
 
 ### Previously worked with:
 
+[<img align="left" alt="Vim" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" style="padding-right:10px;" />](https://www.vim.org/docs.php)
 [<img align="left" alt="C++" width="26px" src="./img/c.svg" style="padding-right:10px;" />](https://devdocs.io/cpp/)
 [<img align="left" alt="C" width="26px" src="./img/c-1.svg" style="padding-right:10px;" />](https://devdocs.io/c/)
 [<img align="left" alt="Matlab" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" style="padding-right:10px;" />](https://www.mathworks.com/help/matlab/)
@@ -60,6 +61,7 @@
 [<img align="left" alt="RasberryPi" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" style="padding-right:10px;" />](https://www.raspberrypi.com/documentation/)
 [<img align="left" alt="LATEX" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" style="padding-right:10px;" />](https://www.latex-project.org/help/documentation/#gh-light-mode-only)
 [<img align="left" alt="R" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" style="padding-right:10px;" />](https://www.r-project.org/other-docs.html)
+[<img align="left" alt="Embedded C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original-wordmark.svg" style="padding-right:10px;" />](https://developer.arm.com/documentation/dui0041/c/The-C-and-C---Libraries/The-embedded-C-library/Embedded-C-library-functions)
 [<img align="left" alt="Salesforce" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" style="padding-right:10px;" />](https://www.salesforce.com/)
 [<img align="left" alt="Arduino" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" style="padding-right:10px;" />](https://docs.arduino.cc/)
 

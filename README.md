@@ -50,7 +50,15 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Onevar's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Onevar&count_private=true&show_icons=true&theme=transparent&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img height=200 align="center" alt="Onevar's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Onevar&count_private=true&show_icons=true&theme=transparent&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img height=200 align="center" alt="Onevar's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=Onevar&layout=compact&card_width=320" />
+
+</details>
+
+<details>
+  <summary>:zap: GitHub Top Languages</summary>
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Onevar&layout=compact)
 
 </details>
 

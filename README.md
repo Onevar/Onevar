@@ -33,9 +33,13 @@
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />](#gh-light-mode-only)
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](#gh-dark-mode-only)
 
+<br />
+
 ### Currently working with:
 
 [<img align="left" alt="VBA" width="26px" src="./img/vba-svgrepo-com.svg" style="padding-right:10px;" />](https://learn.microsoft.com/en-us/office/vba/api/overview/#vba-programming-in-office)
+
+<br />
 
 ### Learning:
 
@@ -44,6 +48,8 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />](https://devdocs.io/javascript/)
 [<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />](https://www.python.org/doc/)
 [<img align="left" alt="Tensorflow" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" style="padding-right:10px;" />](https://www.tensorflow.org/)
+
+<br />
 
 ### Previously worked with:
 

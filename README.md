@@ -8,7 +8,7 @@
 - 👀 I’m looking for a mentor to help me transition into the tech industry
 - 💞️ I’m also seeking collaboration on software projects that are catered to robotics
 - 🥅 2023 Goals: Learn more about A.I and machine learning algorithms
-- ⚡ Fun fact: I love to read and 3D printing
+- ⚡ Fun fact: I love to read, play chess, and 3D printing
 - 📫 Feel free to reach me via my email yipleehin@gmail.com
 
 ### Spotify Playing:

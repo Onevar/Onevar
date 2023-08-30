@@ -24,8 +24,8 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Google" width="26px" src="https://github.com/devicons/devicon/tree/v2.15.1/icons/google/google-original.svg"padding-right:10px;" />](https://www.google.com/)
-[<img align="left" alt="ChatGPT" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" style="padding-right:10px;" />](https://chat.openai.com/)
+[<img align="left" alt="Google" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" style="padding-right:10px;" />](https://www.google.com/)
+[<img align="left" alt="ChatGPT" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" style=" style="padding-right:10px;" />](https://chat.openai.com/)
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />](https://code.visualstudio.com/docs)
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />](https://git-scm.com/doc)
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](#gh-dark-mode-only)
@@ -39,23 +39,23 @@
 
 ### Learning:
 
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][https://developer.mozilla.org/en-US/docs/Web/HTML]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][https://developer.mozilla.org/en-US/docs/Web/CSS/Reference]
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][https://devdocs.io/javascript/]
-[<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />][https://www.python.org/doc/]
-[<img align="left" alt="Tensorflow" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" style="padding-right:10px;" />][https://www.tensorflow.org/]
+[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />](https://devdocs.io/javascript/)
+[<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />](https://www.python.org/doc/)
+[<img align="left" alt="Tensorflow" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" style="padding-right:10px;" />](https://www.tensorflow.org/)
 
 ### Previously worked with:
 
-[<img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][https://devdocs.io/cpp/]
-[<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][https://devdocs.io/c/]
-[<img align="left" alt="Matlab" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" style="padding-right:10px;" />][https://www.mathworks.com/help/matlab/]
-[<img align="left" alt="LabVIEW" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/labview/labview-original.svg" style="padding-right:10px;" />][https://www.ni.com/docs/en-US/bundle/labview/page/what-is-labview.html]
-[<img align="left" alt="RasberryPi" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" style="padding-right:10px;" />][https://www.raspberrypi.com/documentation/]
-[<img align="left" alt="LATEX" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" style="padding-right:10px;" />][https://www.latex-project.org/help/documentation/]
-[<img align="left" alt="R" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" style="padding-right:10px;" />][https://www.r-project.org/other-docs.html]
-[<img align="left" alt="Salesforce" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" style="padding-right:10px;" />][https://www.salesforce.com/]
-[<img align="left" alt="Arduino" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" style="padding-right:10px;" />][https://docs.arduino.cc/]
+[<img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />](https://devdocs.io/cpp/)
+[<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />](https://devdocs.io/c/)
+[<img align="left" alt="Matlab" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" style="padding-right:10px;" />](https://www.mathworks.com/help/matlab/)
+[<img align="left" alt="LabVIEW" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/labview/labview-original.svg" style="padding-right:10px;" />](https://www.ni.com/docs/en-US/bundle/labview/page/what-is-labview.html)
+[<img align="left" alt="RasberryPi" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" style="padding-right:10px;" />](https://www.raspberrypi.com/documentation/)
+[<img align="left" alt="LATEX" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" style="padding-right:10px;" />](https://www.latex-project.org/help/documentation/)
+[<img align="left" alt="R" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" style="padding-right:10px;" />](https://www.r-project.org/other-docs.html)
+[<img align="left" alt="Salesforce" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" style="padding-right:10px;" />](https://www.salesforce.com/)
+[<img align="left" alt="Arduino" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" style="padding-right:10px;" />](https://docs.arduino.cc/)
 
 <br />
 <br />

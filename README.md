@@ -63,6 +63,7 @@
 [<img align="left" alt="R" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" style="padding-right:10px;" />](https://www.r-project.org/other-docs.html)
 [<img align="left" alt="Embedded C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original-wordmark.svg" style="padding-right:10px;" />](https://developer.arm.com/documentation/dui0041/c/The-C-and-C---Libraries/The-embedded-C-library/Embedded-C-library-functions)
 [<img align="left" alt="Salesforce" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" style="padding-right:10px;" />](https://www.salesforce.com/)
+[<img align="left" alt="Vim" width="26px" src="https://commons.wikimedia.org/wiki/File:Ros_logo.svg" style="padding-right:10px;" />](http://wiki.ros.org/Documentation)
 [<img align="left" alt="Arduino" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" style="padding-right:10px;" />](https://docs.arduino.cc/)
 
 <br />
